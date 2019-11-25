@@ -1,0 +1,6 @@
+{
+    "INTELLIJ_THRESHOLD": "17.0",
+    "FIREFOX_THRESHOLD": "10.0",
+    "EMAIL_ADDRESS": "pawan.bisht@knoldus.com",
+    "SCHEDULE_DURATION": "1/20 * * * * *"
+}
